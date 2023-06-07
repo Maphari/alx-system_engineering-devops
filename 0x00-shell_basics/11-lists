@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la cd .. ls -la 
+echo -e "$(ls -la\ncd ..\nls -la\nls -la /boot)"
