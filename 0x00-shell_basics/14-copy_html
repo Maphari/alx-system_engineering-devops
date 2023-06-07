@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cp -u *.html /root/alx-system_engineering-devops)"
+cp *.html /root/alx-system_engineering-devops
