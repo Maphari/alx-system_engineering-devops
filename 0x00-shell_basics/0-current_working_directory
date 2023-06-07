@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n $(pwd)"
+echo "absolute path for current directory is: $(pwd)"
