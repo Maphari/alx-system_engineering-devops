@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file -c -m school.mgc school
+=======
+0       string SCHOOL school data
+!:mime text/school 
+>>>>>>> fd46d21b6f1267eced3bd28153c882985cd12660
