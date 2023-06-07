@@ -1,2 +1,1 @@
-#!/bin/bash
-echo file -m school.mgc school.mgc
+file -m school.mgc school.mgc
